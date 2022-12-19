@@ -1,0 +1,114 @@
+
+body {
+    background-color: green;
+}
+
+.ourson {
+    background-color:red;
+    width: 500px;
+    height: 350px;
+    left: 270px;
+    top:200px;
+    position: absolute;
+    border-radius: 14% 14% 100px 100px;
+    z-index: 1;
+}
+.oreilleg {
+    background-color: orange ;
+    width:90px;
+    height:200px;
+    left: 271px;
+    top: 80px;
+    position:absolute;
+    border-radius: 50%;
+}
+.oreilled {
+    background-color: orange;
+    width:90px;
+    height:200px;
+    left:682px;
+    top:80px;
+    position: absolute;
+    border-radius: 50%;
+}
+.oreilledint {
+    background-color:pink;
+    width:70px;
+    height:170px;
+    left:693px;
+    top:100px;
+    position:absolute;
+    border-radius: 50%;
+}
+.oreillegint {
+    background-color:pink;
+    width:70px;
+    height:170px;
+    left:281px;
+    top:100px;
+    position: absolute;
+    border-radius:50%;
+}
+.oeilg {
+    background-color:white;
+    width:50px;
+    height:100px;
+    left:390px;
+    top:270px;
+    position: absolute;
+    border-radius:50% 50% 0 0;
+    z-index: 2;
+}
+.oeilgint {
+    background-color:black;
+    width:41px;
+    height:62px;
+    left:394px;
+    top:308px;
+    position:absolute;
+    border-radius:50% 50% 0 0;
+    z-index:3;
+}
+.oeildint {
+    background-color:black;
+    width:41px;
+    height:62px;
+    left:604px;
+    top:308px;
+    position:absolute;
+    border-radius:50% 50% 0 0;
+    z-index:3;
+}
+.oeild {
+    background-color: white;
+    width:50px;
+    height:100px;
+    left:600px;
+    top:270px;
+    position:absolute;
+    border-radius:50% 50% 0% 0%;
+    z-index: 2;
+}
+.nez {
+    background-color:black;
+    width:50px;
+    height:50px;
+    left:490px;
+    top:360px;
+    position:absolute;
+    clip-path:polygon(100% 0, 0 0, 50% 50%);
+    z-index:3;
+    
+}
+.bouche {
+    background-color:black;
+    width: 230px;
+    height:56px;
+    left:403px;
+    top:390px;
+    position:absolute;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    z-index: 4;
+    z-index:2;
+}
